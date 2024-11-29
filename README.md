@@ -42,3 +42,5 @@
 </div>
 
 ###
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andr3zj&theme=cobalt&hide_border=true&border_radius=10&mode=weekly&background=54%2C5A0924%2C170A5F&stroke=000000&ring=000000&fire=FF6B22&currStreakNum=FF6B22&sideNums=FF6B22&sideLabels=2502BC&dates=FF08E9&currStreakLabel=00CBE7)](https://git.io/streak-stats)
